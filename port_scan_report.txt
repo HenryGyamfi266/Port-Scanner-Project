@@ -1,0 +1,5 @@
+Scan Report for localhost
+Scanned Ports: 1-1024
+
+Port 135 (TCP) - Open - Service: Unknown Service
+Port 445 (TCP) - Open - Service: Unknown Service
